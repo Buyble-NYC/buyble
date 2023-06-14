@@ -11,3 +11,7 @@
 
 6. you need to set "minimumSDK ~~ 19" somewhere => TBA
 
+7. Java jdk version should be 18 to run it (I think)
+
+
+
